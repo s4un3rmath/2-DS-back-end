@@ -1,0 +1,29 @@
+let nome = "Matheo"
+let altura = 1.60
+let idade = 15
+let serie = "2 ano"
+let turma = "D-S B"
+let cabelo = "descolorido e espetado nas pontas"
+
+console.log ("Olá, meu nome é " + nome + ", eu tenho " + idade + " anos, meu cabelo é " + cabelo +
+     ", tenho " + altura + " de altura e eu estou no " + serie + " " + turma + " e comparando a aminha altura com a do professor")
+
+let altprof = 1.78
+
+const maisalto = false
+
+/*
+console.log("eu não sou mais alto que o professor")
+console.log("Eu sou mais alto que o professor")
+*/
+if (altura >= 1.78){
+    // código para VERDADEIRO
+    if (maisalto == true) {
+        
+            console.log("Eu sou mais alto que o professor")
+        } } else {
+    // código para FALSO
+    console.log("eu não sou mais alto que o professor")
+} 
+
+
