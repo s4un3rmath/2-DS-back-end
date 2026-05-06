@@ -96,8 +96,7 @@ const musicas = [
 
 
 
-
-// adicionar
+//adicionar musica
 const musicas = require("./dados.js")
 produtos.push({  
     //11
@@ -107,5 +106,17 @@ produtos.push({
     lancamento:  "06/10/2023",
     duracao:  "4:44",
     vizualizacoes: 24.0000
-})
+}) 
+
+console.log("##### musicas filtradas po vizualizacoes com menos de 15 milhões #####")
+const filtro = musicas.filter((musica)=> musica.vizualizacoes < 15.0000)
+console.log(filtro)
+
+console.log("##### musica encontrada pelo nome do artista #####")
+const encontrar = musicas.find((musica) => musica.artista == "Måneskin" )
+console.log(encontrar)
+
+console.log("##### musica encontrada pelo nome do artista #####")
+const encontrar = musicas.find((musica) => musica.artista == "Jão" )
+console.log(encontrar)
 
