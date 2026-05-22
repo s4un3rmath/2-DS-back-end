@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shrimp.Dev | Portfólio Laranja Claro</title>
+</head>
+<!-- Definição de fundo LARANJA CLARO nativa na tag body -->
+<body bgcolor="#FFEAD2" text="#3D200A" link="#D45B00" vlink="#A84400" alink="#000000">
+
+    <!-- Topo: Painel de Poeira Estelar Intensa -->
+    <table width="100%" cellpadding="10" cellspacing="0" border="0">
+        <tr>
+            <td align="left" width="20%"><h1><font color="#D45B00">★</font></h1></td>
+            <td align="center" width="20%"><font color="#E69555" size="3">✦</font></td>
+            <td align="center" width="20%"><h2><font color="#A84400">★</font></h2></td>
+            <td align="center" width="20%"><font color="#E69555" size="2">✦</font></td>
+            <td align="right" width="20%"><h1><font color="#A84400">★</font></h1></td>
+        </tr>
+    </table>
+
+    <!-- 1. HEADER & NAVBAR (Bloco em Laranja Intenso para Destaque) -->
+    <header>
+        <table width="100%" bgcolor="#FFD0A1" cellpadding="25" cellspacing="0" border="0">
+            <tr>
+                <td align="center">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td valign="middle"><font color="#A84400" size="4">✦</font>&nbsp;&nbsp;</td>
+                            <!-- Inclusão da nova imagem enviada com alinhamento preciso -->
+                            <td valign="middle">
+                                <img src="Camarao-Rosa-Medio-Inteiro-Unidade.webp" alt="Camarão Rosa Inteiro" width="65" height="65" border="0" style="border-radius: 50%;">
+                            </td>
+                            <td>&nbsp;&nbsp;</td>
+                            <td valign="middle">
+                                <h1><font color="#261203" face="Arial, Helvetica, sans-serif" size="6"><b>KIKO SHRIMP</b></font></h1>
+                            </td>
+                            <td>&nbsp;&nbsp;</td>
+                            <td valign="middle">&nbsp;&nbsp;<font color="#D45B00" size="5">★</font></td>
+                        </tr>
+                    </table>
+                    <p><font color="#5C3314" face="Arial, Helvetica, sans-serif" size="3"><b>Especialista em Engenharia de Software e Algoritmos Subaquáticos</b></font></p>
+                    <hr width="150" size="2" color="#D45B00">
+                    <br>
+                    <nav>
+                        <font face="Arial, Helvetica, sans-serif" size="3">
+                            <b>
+                            <a href="#inicio"><font color="#261203">INÍCIO</font></a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#sobre"><font color="#261203">FILOSOFIA MARINHA</font></a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#projetos"><font color="#261203">REPOSITÓRIOS</font></a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#contato"><font color="#261203">LANÇAR SONAR</font></a>
+                            </b>
+                        </font>
+                    </nav>
+                </td>
+            </tr>
+        </table>
+    </header>
+
+    <!-- Linha divisória em Laranja Escuro -->
+    <table width="100%" bgcolor="#D45B00" cellpadding="2" cellspacing="0" border="0"><tr><td></td></tr></table>
+
+    <!-- SEÇÃO 1: INÍCIO (Hero) -->
+    <section id="inicio">
+        <table width="100%" cellpadding="60" cellspacing="0" border="0">
+            <tr>
+                <td align="center" width="15%" valign="middle">
+                    <h1><font color="#D45B00">★</font></h1>
+                    <font color="#E69555" size="3">✦</font>
+                </td>
+                <td align="center" width="70%">
+                    <table width="600" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td align="center">
+                                <h2><font color="#261203" face="Arial, Helvetica, sans-serif" size="7">Codificando APIs estáveis<br>sem dormir na onda.</font></h2>
+                                <br><br>
+                                <p><font color="#5C3314" face="Arial, Helvetica, sans-serif" size="4">
+                                    Olá, eu sou o Kiko! Um camarão desenvolvedor focado em arquitetura lógica de back-end, limpeza de código marinho e algoritmos de alta densidade no fundo do oceano digital.
+                                </font></p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td align="center" width="15%" valign="middle">
+                    <font color="#E69555" size="2">✦</font>
+                    <h1><font color="#A84400">★</font></h1>
+                </td>
+            </tr>
+        </table>
+    </section>
+
+    <!-- SEÇÃO 2: SOBRE MIM -->
+    <section id="sobre">
+        <table width="100%" bgcolor="#FFDFBD" cellpadding="60" cellspacing="0" border="0">
+            <tr>
+                <td align="center">
+                    <table width="850" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td width="55%" valign="top" align="left">
+                                <table cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td><p><font color="#D45B00" face="Arial, Helvetica, sans-serif" size="3"><b>01 / MANIFESTO</b></font></p></td>
+                                        <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                        <td><font color="#A84400" size="5">★</font></td>
+                                    </tr>
+                                </table>
+                                <h3><font color="#261203" face="Arial, Helvetica, sans-serif" size="6">Quem é o camarão por trás dos terminais?</font></h3>
+                                <br>
+                                <p><font color="#4A270B" face="Arial, Helvetica, sans-serif" size="3">
+                                    Baseado no axioma milenar da engenharia de recifes que dita: <i>"camarão que dorme a onda leva"</i>, opero em ciclos constantes de desenvolvimento sem interrupções. 
+                                </font></p>
+                                <br>
+                                <p><font color="#4A270B" face="Arial, Helvetica, sans-serif" size="3">
+                                    Minha especialidade técnica é vasculhar e otimizar estruturas complexas de bancos de dados relacionais nas fossas abissais, garantindo que queries pesadas rodem na velocidade das correntezas mais profundas.
+                                </font></p>
+                            </td>
+                            <td width="5%" align="center" valign="middle">
+                                <h2><font color="#E69555" size="5">★</font></h2>
+                            </td>
+                            <td width="40%" valign="top">
+                                <table width="100%" bgcolor="#3D200A" cellpadding="20" cellspacing="0" border="0">
+                                    <tr>
+                                        <td>
+                                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td><h4><font color="#FFEAD2" face="Arial, Helvetica, sans-serif" size="4"><b>Habilidades Marinhas</b></font></h4></td>
+                                                    <td align="right"><h2><font color="#FFD0A1" size="5">★</font></h2></td>
+                                                </tr>
+                                            </table>
+                                            <hr size="2" color="#FFD0A1" align="left" width="50">
+                                            <br>
+                                            <font color="#FFD0A1" face="Arial, Helvetica, sans-serif" size="3">
+                                                ▪ <b>Lógica:</b> JavaScript Subaquático ES6+<br><br>
+                                                ▪ <b>Estruturas:</b> HTML5 Semântico de Recifal<br><br>
+                                                ▪ <b>Persistência:</b> Otimização SQL Abissal
+                                            </font>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </section>
+
+</body>
+</html>
